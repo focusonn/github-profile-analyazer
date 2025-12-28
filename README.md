@@ -1,2 +1,2 @@
 # github-profile-analyazer
-klasik sistem babacan destek icin -> https://discord.gg/nationdev
+klasik sistem babacan destek icin -> https://discord.gg/altyapi
